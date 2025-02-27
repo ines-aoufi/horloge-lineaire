@@ -1,6 +1,7 @@
-# horloge-lineaire-v1
+# Horloge Linéaire
 
-This template should help get you started developing with Vue 3 in Vite.
+Application d'organisation quotidienne où l'on peut catégoriser notre temps par couleurs en blocs de 30 minutes.
+
 
 ## Recommended IDE Setup
 
